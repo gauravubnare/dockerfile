@@ -9,4 +9,4 @@ COPY . /data
 RUN chmod +x /data/red.sh
 WORKDIR /root
 USER root
-ENTRYPOINT  bash /data/red.sh && /bin/bash 
+ENTRYPOINT //data/red.sh && /bin/bash 
