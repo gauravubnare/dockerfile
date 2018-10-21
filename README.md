@@ -1,5 +1,5 @@
 # dockerfile
-This Docker File in CentOS-Gui is of Centos with SSh Enabled Container
+This Docker File is of Centos with SSh Enabled Container
 run the following Command to build and deploy the container
 
 docker build -t "Image Name" .
